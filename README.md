@@ -2,6 +2,6 @@
 
 **Team Members:**  
 - Gouarv Bhimavarapu  
-- Kyonggo Gong  
+- Kyongho Gong  
 - Jinha Seo  
 - Ahmed Alghamdi
